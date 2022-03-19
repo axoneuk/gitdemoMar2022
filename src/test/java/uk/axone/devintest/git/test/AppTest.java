@@ -28,4 +28,9 @@ public class AppTest {
     public void test5(){
         System.out.println("Running test 5");
     }
+
+    @Test
+    public void test6(){
+        System.out.println("Running test 6");
+    }
 }
